@@ -1,4 +1,5 @@
-Running this with `electron@1.6.3`, I see the following on stdout:
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ Running this with `electron@1.6.3`, I see the following on stdout:
 
 ```
 Nathans-MBP:electron-quick-start nathan$ electron .
